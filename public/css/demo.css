@@ -1,0 +1,28 @@
+.logo{
+    text-align: center;
+}
+.menu .home{
+    border-bottom: 1px solid #e9b951;
+}
+.menu .Aboutme:hover{
+    border-bottom: 1px solid #e9b951;
+}
+.menu .Horoscopes:hover{
+    border-bottom: 1px solid #e9b951;
+}
+.menu .Blog:hover{
+    border-bottom: 1px solid #e9b951;
+}
+.menu .Contact:hover{
+    border-bottom: 1px solid #e9b951;
+}
+.menu .Buynow:hover{
+    border-bottom: 1px solid #e9b951;
+}
+.menu li a p{
+    color: #e9b951;
+    padding: 0px 20px;
+    text-align: left;
+    font-size: 20px;
+}
+
